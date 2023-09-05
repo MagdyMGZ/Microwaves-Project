@@ -1,9 +1,13 @@
 # Re: ELC2090 Project - Group 5:
 
 It is required to design a power division network that divides the power among 2 loads satisfying the following specs at the design frequency:
+
 ●     Input and output matching.
+
 ●     Isolation between output ports.
+
 ●     Equal power division ratio.
+
 Two designs of this network are to be proposed:
 
 1)    Lumped components based design.

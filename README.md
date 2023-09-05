@@ -5,8 +5,11 @@ It is required to design a power division network that divides the power among 2
 ●     Isolation between output ports.
 ●     Equal power division ratio.
 Two designs of this network are to be proposed:
+
 1)    Lumped components based design.
-2)    Microstrip line based design
+
+2)    Microstrip line based design.
+
 Compare the performance of both implementations, supporting your comparison 
 with relevant results and comments. Account for all discontinuities, 
 junctions, bends… etc. in the microstrip version.
